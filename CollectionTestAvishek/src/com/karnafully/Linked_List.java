@@ -75,6 +75,6 @@ public class Linked_List {
 		list.remove("Three");
 		list.removeFirst();
 		list.removeLast();
-
+		list.clear();
 	}
 }
